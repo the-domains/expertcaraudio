@@ -1,0 +1,28 @@
+name: ExpertCarAudio
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3235792040359229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0d0d0d'
+    - '#777c80'
+    - '#d0cdc6'
+    - '#505050'
+    - '#fc0000'
+  brandStrength: 0.9130110442638397
+  lightness: 0.5154371275566518
+  saturation: 0.6454868146684021
+  rhythmicContrast: 0.9503300995565951
+purpose: []

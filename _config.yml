@@ -1,20 +1,4 @@
-name: ExpertCarAudio
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.3235792040359229
-title: Expert Car Audio
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#0d0d0d'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5154371275566518
   saturation: 0.6454868146684021
   rhythmicContrast: 0.9503300995565951
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ExpertCarAudio
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Expert Car Audio
+description: Where only the very best will do
 purpose: []
